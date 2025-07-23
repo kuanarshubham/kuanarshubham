@@ -1,4 +1,10 @@
-<h1 align="center">Hey, I'm Shubham</h1>
+<p align="center">
+  <a href="./assests/i-am-shubham.svg">
+    <img src="./assests/i-am-shubham.svg" />
+  </a>
+</p>
+
+
 <h3 align="center">Full-Stack Dev | Currently running with <bold>Real Time Connection</bold> 🚀</h3>
 
 ---
